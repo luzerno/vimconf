@@ -1,7 +1,7 @@
-=Vundle based Vim configuration framework
+# Vundle based Vim configuration framework
 
-==Vimconf cheatsheet
+## Vimconf cheatsheet
 
-===Navigation
+### Navigation
 TBA
 
